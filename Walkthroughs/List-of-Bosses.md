@@ -1,6 +1,5 @@
 # **List of Elden Ring Bosses**
 
-## **Main Story Bosses**
 These bosses are required to progress the main narrative of *Elden Ring*. Defeating them advances the story and unlocks new areas.
 
 ### [**1. Margit, The Fell Omen**](Main-Bosses/Margit-The-Fell-Omen.md)
