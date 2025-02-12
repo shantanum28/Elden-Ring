@@ -1,6 +1,6 @@
 ## **Elden Ring Boss Walkthroughs**
 
-Welcome to the **Elden Ring Boss Walkthroughs** repository! This project is designed to provide a comprehensive, step-by-step guide for defeating all major and optional bosses in *Elden Ring*. Whether you're a new player seeking strategies or an experienced Tarnished looking for tips to refine your approach, this repository aims to enhance your journey through the Lands Between.
+Welcome to the **Elden Ring Boss Walkthroughs** repository! This project is designed to provide a comprehensive, step-by-step guide for defeating all major bosses in *Elden Ring*. Whether you're a new player seeking strategies or an experienced Tarnished looking for tips to refine your approach, this repository aims to enhance your journey through the Lands Between.
 
 ## **How to Use**
 1. Navigate to the boss you need help with using the [List of Bosses](Walkthroughs/List-of-Bosses.md).
